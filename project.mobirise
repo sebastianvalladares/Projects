@@ -29,7 +29,8 @@
     "page3.html": {
       "settings": {
         "title": "Web Page Maker Title",
-        "meta_descr": "Web Page Maker Description"
+        "meta_descr": "Web Page Maker Description",
+        "order": 3
       },
       "components": [
         {
@@ -191,7 +192,8 @@
     "page4.html": {
       "settings": {
         "title": "Web Page Builder Title",
-        "meta_descr": "Web Page Builder Description"
+        "meta_descr": "Web Page Builder Description",
+        "order": 4
       },
       "components": [
         {
@@ -353,7 +355,8 @@
     "page5.html": {
       "settings": {
         "title": "Site Maker Title",
-        "meta_descr": "Site Maker Description"
+        "meta_descr": "Site Maker Description",
+        "order": 5
       },
       "components": [
         {
@@ -515,7 +518,8 @@
     "page6.html": {
       "settings": {
         "title": "Web Page Builder Title",
-        "meta_descr": "Web Page Builder Description"
+        "meta_descr": "Web Page Builder Description",
+        "order": 6
       },
       "components": [
         {
@@ -776,7 +780,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 2
       },
       "components": [
         {
@@ -916,7 +921,8 @@
     "index.html": {
       "settings": {
         "title": "Web Generator Title",
-        "meta_descr": "Web Generator Description"
+        "meta_descr": "Web Generator Description",
+        "order": 1
       },
       "components": [
         {
